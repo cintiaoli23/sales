@@ -1,0 +1,301 @@
+Date,Product,Category,Price,Quantity,City
+2025-01-20,Headphones,Electronics,2071.19,2,São Paulo
+2025-02-06,Action Figure,Toys,1678.46,2,Salvador
+2024-12-28,Toaster,Home,1797.53,1,São Paulo
+2025-03-18,Toy Car,Toys,2115.0,2,Curitiba
+2025-02-14,Sneakers,Fashion,2265.03,5,Porto Alegre
+2024-12-16,Laptop,Electronics,1539.84,1,Rio de Janeiro
+2025-04-15,Toaster,Home,2584.03,4,São Paulo
+2024-10-27,T-Shirt,Fashion,2352.18,3,Curitiba
+2025-01-11,Jacket,Fashion,1302.43,2,Rio de Janeiro
+2025-02-10,Action Figure,Toys,2875.17,1,Belo Horizonte
+2025-02-26,Smartphone,Electronics,1594.97,2,Porto Alegre
+2024-11-24,Smartphone,Electronics,2543.06,3,Belo Horizonte
+2024-11-02,Vacuum Cleaner,Home,3089.47,3,Brasília
+2024-12-09,Jeans,Fashion,189.16,5,Rio de Janeiro
+2024-12-27,Blender,Home,823.81,4,Curitiba
+2024-11-13,Jacket,Fashion,785.97,4,Curitiba
+2024-10-23,Puzzle,Toys,608.9,2,Belo Horizonte
+2025-01-06,T-Shirt,Fashion,1687.69,4,Belo Horizonte
+2024-12-04,T-Shirt,Fashion,2967.62,5,São Paulo
+2025-04-07,Puzzle,Toys,1564.55,4,Porto Alegre
+2025-01-14,Toaster,Home,962.88,1,Belo Horizonte
+2024-12-03,Smartphone,Electronics,1669.93,4,Porto Alegre
+2025-01-11,Toaster,Home,3201.38,4,Belo Horizonte
+2024-12-12,Laptop,Electronics,1849.23,4,Belo Horizonte
+2024-11-20,Toy Car,Toys,2985.05,3,São Paulo
+2025-01-20,Vacuum Cleaner,Home,2270.43,1,Brasília
+2025-04-08,Coffee Maker,Home,642.96,1,Rio de Janeiro
+2025-03-09,Action Figure,Toys,3213.79,5,São Paulo
+2024-12-25,Jeans,Fashion,1353.74,2,Rio de Janeiro
+2025-04-03,Coffee Maker,Home,3065.02,5,Belo Horizonte
+2024-11-30,Jeans,Fashion,3101.22,4,São Paulo
+2025-04-01,Toy Car,Toys,1841.77,5,Porto Alegre
+2025-03-01,Tablet,Electronics,2548.02,3,Porto Alegre
+2025-02-22,Coffee Maker,Home,3239.77,3,Porto Alegre
+2025-04-12,Jacket,Fashion,701.17,5,Salvador
+2025-01-23,Jeans,Fashion,2851.49,1,São Paulo
+2025-02-15,Coffee Maker,Home,3166.22,1,Porto Alegre
+2025-01-18,Smartphone,Electronics,1227.11,1,Salvador
+2025-04-06,Blender,Home,3415.24,2,Curitiba
+2025-03-12,T-Shirt,Fashion,1049.72,2,Brasília
+2025-03-04,T-Shirt,Fashion,3088.84,3,Rio de Janeiro
+2024-12-25,Puzzle,Toys,632.24,5,Salvador
+2025-04-07,Toaster,Home,876.41,4,Brasília
+2024-11-12,Puzzle,Toys,2246.34,2,Porto Alegre
+2025-01-06,Jeans,Fashion,3158.27,1,Rio de Janeiro
+2024-11-24,Sneakers,Fashion,1741.52,5,Rio de Janeiro
+2025-01-21,T-Shirt,Fashion,3313.44,4,São Paulo
+2024-11-02,Jeans,Fashion,1445.02,1,Salvador
+2025-03-14,Toaster,Home,3190.86,2,São Paulo
+2025-03-04,Board Game,Toys,592.76,1,Porto Alegre
+2025-01-01,Action Figure,Toys,2687.53,3,Curitiba
+2025-04-21,Blender,Home,1862.38,3,Brasília
+2024-12-02,Vacuum Cleaner,Home,1501.54,4,Brasília
+2025-02-10,Laptop,Electronics,3461.41,2,Rio de Janeiro
+2025-02-06,T-Shirt,Fashion,1846.38,2,Porto Alegre
+2024-10-24,Board Game,Toys,2633.01,1,Porto Alegre
+2025-01-05,Coffee Maker,Home,560.39,2,São Paulo
+2024-11-27,Toaster,Home,709.43,5,Curitiba
+2024-11-26,Action Figure,Toys,521.53,2,Salvador
+2024-12-21,Smartphone,Electronics,573.13,1,Belo Horizonte
+2024-11-25,Vacuum Cleaner,Home,400.84,5,Rio de Janeiro
+2025-04-11,Toaster,Home,2778.31,5,São Paulo
+2024-12-26,Smartphone,Electronics,3263.2,3,Porto Alegre
+2024-10-23,Puzzle,Toys,2803.84,1,Curitiba
+2025-02-01,Board Game,Toys,820.45,5,São Paulo
+2025-04-11,Vacuum Cleaner,Home,2575.17,2,Curitiba
+2025-01-28,Vacuum Cleaner,Home,3174.06,4,Curitiba
+2024-11-17,Tablet,Electronics,1864.71,2,Salvador
+2024-11-20,Puzzle,Toys,1097.72,2,Porto Alegre
+2025-01-21,Coffee Maker,Home,3344.14,4,São Paulo
+2024-10-31,T-Shirt,Fashion,908.45,5,Belo Horizonte
+2024-12-26,Puzzle,Toys,429.93,2,Salvador
+2024-12-13,Toaster,Home,1847.54,2,Belo Horizonte
+2025-04-20,Sneakers,Fashion,671.15,3,Salvador
+2024-12-21,Action Figure,Toys,1038.85,3,São Paulo
+2025-04-09,Puzzle,Toys,2079.79,2,Belo Horizonte
+2024-12-31,Jacket,Fashion,2474.54,2,Curitiba
+2024-11-30,Jeans,Fashion,1163.88,2,São Paulo
+2024-11-15,Board Game,Toys,3416.68,5,Porto Alegre
+2025-04-22,Coffee Maker,Home,938.14,1,São Paulo
+2025-03-02,Tablet,Electronics,2348.92,1,Porto Alegre
+2024-11-25,Laptop,Electronics,3385.28,2,Salvador
+2024-11-16,Headphones,Electronics,652.18,1,Rio de Janeiro
+2024-11-05,Toy Car,Toys,1025.5,1,Curitiba
+2024-12-06,Jeans,Fashion,146.05,5,Rio de Janeiro
+2024-12-09,Toaster,Home,1802.84,4,Salvador
+2024-11-15,Coffee Maker,Home,234.16,2,Belo Horizonte
+2025-03-22,Toy Car,Toys,954.54,1,Rio de Janeiro
+2025-03-15,Coffee Maker,Home,3394.97,4,Rio de Janeiro
+2025-04-09,Jacket,Fashion,1556.69,2,Curitiba
+2024-12-03,Headphones,Electronics,288.98,4,São Paulo
+2024-12-19,Jacket,Fashion,3481.03,1,Brasília
+2025-04-12,Sneakers,Fashion,2648.81,4,Porto Alegre
+2025-04-09,Toy Car,Toys,3285.66,2,São Paulo
+2024-11-12,Laptop,Electronics,2379.05,3,Rio de Janeiro
+2025-04-18,Headphones,Electronics,1148.36,1,Brasília
+2025-01-14,Vacuum Cleaner,Home,2341.01,2,Belo Horizonte
+2024-12-29,Smartphone,Electronics,2058.29,4,Brasília
+2025-03-08,Sneakers,Fashion,3244.19,3,Rio de Janeiro
+2025-02-25,Sneakers,Fashion,2860.13,1,Belo Horizonte
+2025-04-11,Smartphone,Electronics,377.2,2,Brasília
+2025-01-15,Toaster,Home,1476.45,5,Porto Alegre
+2025-02-20,Toaster,Home,2166.55,4,São Paulo
+2024-11-15,T-Shirt,Fashion,286.97,1,Rio de Janeiro
+2025-04-13,Tablet,Electronics,650.58,4,Salvador
+2025-02-10,Jeans,Fashion,887.42,5,Curitiba
+2024-12-18,Puzzle,Toys,32.16,2,Belo Horizonte
+2024-12-14,Jeans,Fashion,3353.74,5,Rio de Janeiro
+2025-02-13,Tablet,Electronics,2329.67,1,Brasília
+2025-03-06,Action Figure,Toys,3209.04,3,Curitiba
+2025-03-21,T-Shirt,Fashion,2642.42,5,Rio de Janeiro
+2025-02-25,Tablet,Electronics,647.71,1,Salvador
+2024-11-01,Blender,Home,837.81,2,Belo Horizonte
+2025-03-24,Smartphone,Electronics,2544.29,3,Salvador
+2024-12-01,Action Figure,Toys,1152.48,4,Belo Horizonte
+2025-01-04,Jeans,Fashion,3423.83,2,Belo Horizonte
+2024-12-25,Action Figure,Toys,1635.2,4,Porto Alegre
+2025-03-02,Toy Car,Toys,2856.99,4,Salvador
+2024-12-14,Headphones,Electronics,2453.95,2,Brasília
+2024-10-28,Coffee Maker,Home,228.26,5,Curitiba
+2025-04-22,Sneakers,Fashion,2577.13,3,Brasília
+2024-12-04,Vacuum Cleaner,Home,2451.11,1,Curitiba
+2025-01-29,Laptop,Electronics,1900.14,3,Belo Horizonte
+2024-12-25,Tablet,Electronics,3391.2,1,Brasília
+2025-02-24,Laptop,Electronics,1399.98,5,Rio de Janeiro
+2024-12-18,Toaster,Home,411.06,5,São Paulo
+2025-01-28,Sneakers,Fashion,2048.55,2,Belo Horizonte
+2025-03-31,Sneakers,Fashion,739.56,2,São Paulo
+2024-12-29,Jacket,Fashion,3010.97,5,São Paulo
+2024-10-25,Laptop,Electronics,2659.85,4,Salvador
+2025-03-14,Action Figure,Toys,2570.71,1,Curitiba
+2025-01-21,Toy Car,Toys,280.65,4,Brasília
+2025-03-31,Toy Car,Toys,83.11,5,Curitiba
+2024-12-02,Board Game,Toys,460.29,4,São Paulo
+2025-03-03,Jeans,Fashion,1644.98,2,Salvador
+2024-12-13,Jeans,Fashion,3491.64,2,Brasília
+2025-02-10,Headphones,Electronics,3289.64,2,Porto Alegre
+2025-02-04,Headphones,Electronics,1366.72,1,Rio de Janeiro
+2025-04-21,Action Figure,Toys,1487.7,1,Brasília
+2025-03-24,Action Figure,Toys,1858.5,2,Curitiba
+2024-12-31,Vacuum Cleaner,Home,2106.16,1,Brasília
+2025-03-07,Action Figure,Toys,2956.36,5,Belo Horizonte
+2024-12-15,Toaster,Home,2844.08,5,Curitiba
+2025-04-03,Jacket,Fashion,2001.14,4,Curitiba
+2024-12-02,Board Game,Toys,1354.07,4,São Paulo
+2025-03-12,Toaster,Home,1009.79,1,Rio de Janeiro
+2025-04-20,Coffee Maker,Home,1218.91,3,Rio de Janeiro
+2025-04-05,Coffee Maker,Home,2523.61,5,Curitiba
+2025-03-16,Puzzle,Toys,2927.44,4,Porto Alegre
+2024-12-21,Vacuum Cleaner,Home,3312.85,3,Curitiba
+2025-04-14,Tablet,Electronics,409.33,3,Salvador
+2024-12-05,Vacuum Cleaner,Home,1187.18,1,São Paulo
+2025-01-08,Laptop,Electronics,3330.77,3,Salvador
+2025-01-08,Jacket,Fashion,1527.36,3,Rio de Janeiro
+2025-01-30,Board Game,Toys,2324.26,5,Curitiba
+2025-01-10,Action Figure,Toys,1628.48,1,Brasília
+2025-04-06,Coffee Maker,Home,110.29,3,Brasília
+2024-10-23,Headphones,Electronics,1950.01,3,Curitiba
+2024-12-17,Sneakers,Fashion,2411.82,1,Porto Alegre
+2024-12-17,Jeans,Fashion,319.25,1,Brasília
+2024-11-11,Blender,Home,90.59,5,São Paulo
+2025-04-01,Smartphone,Electronics,2094.38,4,Rio de Janeiro
+2025-01-02,Toaster,Home,1130.32,3,Brasília
+2024-11-07,T-Shirt,Fashion,1652.87,2,Rio de Janeiro
+2025-04-22,Toaster,Home,2361.29,4,Belo Horizonte
+2025-02-05,Tablet,Electronics,314.47,1,Salvador
+2025-03-22,Puzzle,Toys,2827.82,2,Rio de Janeiro
+2025-01-01,Sneakers,Fashion,1759.54,4,São Paulo
+2025-02-06,Puzzle,Toys,1093.24,3,Rio de Janeiro
+2024-12-23,Sneakers,Fashion,1641.83,5,Porto Alegre
+2025-01-18,Jacket,Fashion,864.97,1,Brasília
+2024-12-26,Coffee Maker,Home,1635.14,1,Belo Horizonte
+2024-11-29,T-Shirt,Fashion,2595.01,5,São Paulo
+2024-10-25,Board Game,Toys,2687.88,4,Porto Alegre
+2025-01-22,Toaster,Home,763.13,4,São Paulo
+2024-12-18,T-Shirt,Fashion,1688.0,3,São Paulo
+2024-11-30,Board Game,Toys,2662.94,3,Curitiba
+2024-11-14,Smartphone,Electronics,1675.59,5,Porto Alegre
+2024-11-12,Headphones,Electronics,3462.67,5,São Paulo
+2025-01-29,Action Figure,Toys,1249.1,4,Curitiba
+2024-11-24,Board Game,Toys,2436.9,1,Belo Horizonte
+2025-02-05,Jacket,Fashion,3185.76,3,Belo Horizonte
+2024-12-13,Jeans,Fashion,768.43,2,Belo Horizonte
+2024-10-28,Headphones,Electronics,1760.86,4,Porto Alegre
+2025-01-09,Jeans,Fashion,1800.29,2,Curitiba
+2025-04-10,Jeans,Fashion,616.45,2,Brasília
+2025-02-28,Jacket,Fashion,1344.27,1,Porto Alegre
+2025-03-15,Blender,Home,1148.03,5,Curitiba
+2025-02-01,Laptop,Electronics,2488.57,3,Rio de Janeiro
+2025-01-15,Laptop,Electronics,541.03,4,Curitiba
+2025-04-08,Coffee Maker,Home,1109.68,2,São Paulo
+2025-03-14,Sneakers,Fashion,2368.15,2,Rio de Janeiro
+2024-10-29,Toaster,Home,2170.35,2,Belo Horizonte
+2025-03-21,T-Shirt,Fashion,271.37,4,Salvador
+2025-04-13,Blender,Home,3237.81,3,Salvador
+2025-03-31,Toy Car,Toys,3120.09,4,São Paulo
+2025-01-14,Jacket,Fashion,2488.34,4,São Paulo
+2025-02-22,Toaster,Home,1681.25,2,Curitiba
+2025-01-01,Blender,Home,2695.12,3,Porto Alegre
+2025-03-15,Puzzle,Toys,1843.23,4,Porto Alegre
+2025-02-14,Board Game,Toys,1730.96,1,Porto Alegre
+2025-02-28,Laptop,Electronics,2105.71,4,Brasília
+2025-04-11,Jacket,Fashion,2645.26,5,Porto Alegre
+2025-01-24,Tablet,Electronics,3323.16,3,Salvador
+2025-02-21,Jeans,Fashion,2155.08,4,Porto Alegre
+2025-04-20,Action Figure,Toys,473.89,2,Curitiba
+2025-01-15,Headphones,Electronics,1547.98,5,Rio de Janeiro
+2025-03-23,Toaster,Home,3043.6,2,Curitiba
+2024-11-16,Sneakers,Fashion,2235.6,4,Porto Alegre
+2024-10-26,Toaster,Home,2517.35,4,Belo Horizonte
+2024-12-04,Smartphone,Electronics,1430.18,4,Salvador
+2024-12-08,T-Shirt,Fashion,2277.9,3,Salvador
+2025-02-25,Board Game,Toys,3171.31,1,Curitiba
+2025-02-03,Vacuum Cleaner,Home,674.44,4,Curitiba
+2025-04-10,Jacket,Fashion,2149.51,1,São Paulo
+2025-04-01,Puzzle,Toys,2877.47,2,Salvador
+2025-01-23,Headphones,Electronics,667.81,1,Salvador
+2024-12-29,Board Game,Toys,2884.64,1,Belo Horizonte
+2025-03-24,Coffee Maker,Home,2832.83,5,Rio de Janeiro
+2025-04-15,Toaster,Home,1372.06,2,Salvador
+2025-04-18,Blender,Home,2732.85,2,Rio de Janeiro
+2025-03-05,Puzzle,Toys,1488.28,2,Curitiba
+2025-01-03,T-Shirt,Fashion,3028.15,5,São Paulo
+2024-11-10,Jeans,Fashion,1245.54,4,Salvador
+2025-01-19,Smartphone,Electronics,504.56,4,Rio de Janeiro
+2025-02-04,Smartphone,Electronics,1140.21,5,Curitiba
+2025-03-15,Action Figure,Toys,1247.73,5,São Paulo
+2024-12-19,Toy Car,Toys,2543.49,1,São Paulo
+2024-12-01,T-Shirt,Fashion,1496.82,3,Curitiba
+2024-12-29,Headphones,Electronics,104.1,4,São Paulo
+2024-12-12,Blender,Home,3382.6,2,Rio de Janeiro
+2025-03-04,Puzzle,Toys,1699.98,2,Porto Alegre
+2025-04-02,Board Game,Toys,3345.25,1,Brasília
+2024-12-13,Coffee Maker,Home,721.72,1,Curitiba
+2025-02-15,Sneakers,Fashion,3426.9,2,Belo Horizonte
+2025-01-10,T-Shirt,Fashion,3097.75,3,Brasília
+2025-01-22,Toaster,Home,2458.96,1,São Paulo
+2025-03-22,Action Figure,Toys,959.61,1,Porto Alegre
+2024-12-16,Laptop,Electronics,895.08,2,Porto Alegre
+2025-01-26,Headphones,Electronics,1953.46,5,Porto Alegre
+2024-12-10,Headphones,Electronics,1378.14,4,Rio de Janeiro
+2025-01-07,Laptop,Electronics,474.48,1,Curitiba
+2024-12-30,Headphones,Electronics,1635.9,3,São Paulo
+2024-11-10,Tablet,Electronics,3212.13,2,Belo Horizonte
+2025-01-15,Puzzle,Toys,1510.71,1,Rio de Janeiro
+2024-11-29,Puzzle,Toys,3068.48,3,São Paulo
+2024-12-04,Toy Car,Toys,2103.64,1,São Paulo
+2024-11-19,Board Game,Toys,1426.35,2,Curitiba
+2025-01-07,Sneakers,Fashion,2634.84,2,Rio de Janeiro
+2024-12-14,Headphones,Electronics,842.03,1,Belo Horizonte
+2025-03-23,Puzzle,Toys,792.68,2,Salvador
+2024-10-29,T-Shirt,Fashion,3126.98,2,Porto Alegre
+2024-12-27,Action Figure,Toys,223.9,5,Curitiba
+2024-12-17,Action Figure,Toys,1552.22,5,Porto Alegre
+2025-04-01,Laptop,Electronics,205.17,3,São Paulo
+2025-03-29,Laptop,Electronics,71.75,1,Brasília
+2025-04-21,Puzzle,Toys,1300.39,2,São Paulo
+2025-02-18,Laptop,Electronics,678.16,1,Rio de Janeiro
+2025-02-02,Board Game,Toys,1839.99,4,Rio de Janeiro
+2025-03-30,Toaster,Home,306.15,4,Curitiba
+2025-03-28,Puzzle,Toys,2874.36,4,Salvador
+2025-03-01,Coffee Maker,Home,2231.53,4,Rio de Janeiro
+2025-04-07,Headphones,Electronics,2434.38,1,Belo Horizonte
+2024-12-14,Tablet,Electronics,3076.66,3,Brasília
+2024-10-27,T-Shirt,Fashion,764.86,3,Curitiba
+2025-01-04,Blender,Home,2242.64,2,Curitiba
+2025-03-01,Puzzle,Toys,3085.16,2,Rio de Janeiro
+2025-02-21,Action Figure,Toys,3286.14,1,Porto Alegre
+2024-12-05,Vacuum Cleaner,Home,208.34,2,Porto Alegre
+2024-11-29,T-Shirt,Fashion,274.64,5,Salvador
+2024-11-26,Action Figure,Toys,3007.28,2,Porto Alegre
+2024-12-18,Laptop,Electronics,3443.14,4,Porto Alegre
+2025-01-11,Coffee Maker,Home,1980.69,1,Curitiba
+2024-11-02,Sneakers,Fashion,889.68,1,Salvador
+2024-12-15,Jeans,Fashion,3227.08,4,Curitiba
+2024-12-28,Headphones,Electronics,555.49,4,Brasília
+2024-11-17,Jeans,Fashion,1176.52,4,Salvador
+2025-03-09,Board Game,Toys,2848.58,4,Porto Alegre
+2025-02-26,Toy Car,Toys,3376.84,2,São Paulo
+2024-11-26,Coffee Maker,Home,250.96,2,Porto Alegre
+2024-12-03,T-Shirt,Fashion,1105.91,3,São Paulo
+2024-12-21,Jacket,Fashion,104.34,5,São Paulo
+2025-02-23,Laptop,Electronics,591.31,4,Porto Alegre
+2025-04-22,Blender,Home,2022.67,5,Salvador
+2025-03-06,Puzzle,Toys,1431.13,5,Rio de Janeiro
+2025-01-11,Blender,Home,1699.81,2,Porto Alegre
+2025-04-21,Toy Car,Toys,1222.74,2,Belo Horizonte
+2024-11-05,Coffee Maker,Home,1029.71,4,Rio de Janeiro
+2025-02-24,Blender,Home,3440.58,5,Brasília
+2024-11-18,Jacket,Fashion,243.25,2,Porto Alegre
+2025-02-08,Blender,Home,1844.07,4,Salvador
+2025-01-21,Smartphone,Electronics,2818.57,1,Salvador
+2025-01-28,Smartphone,Electronics,2711.11,1,Rio de Janeiro
+2025-02-12,Jacket,Fashion,3268.81,1,Belo Horizonte
+2025-04-13,Jacket,Fashion,2800.43,5,Curitiba
+2025-04-12,Jeans,Fashion,3038.22,3,Salvador
+2024-12-20,Coffee Maker,Home,222.98,3,Belo Horizonte
+2025-04-01,Action Figure,Toys,2468.22,4,Salvador
+2024-10-28,Headphones,Electronics,474.45,5,Salvador
+2025-01-13,Coffee Maker,Home,2331.38,5,Curitiba
